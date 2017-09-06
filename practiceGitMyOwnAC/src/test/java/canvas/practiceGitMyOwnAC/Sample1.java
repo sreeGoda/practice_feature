@@ -6,6 +6,7 @@ public class Sample1 {
 		System.out.println("first line.....");
 		System.out.println("second line....");
 		System.out.println("nklkmnkk");
+		System.out.println("xxxxx.............");
 	}
 
 }
